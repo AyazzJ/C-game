@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\ayazj\source\repos\test\test\test.cpp(349,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ayazj\source\repos\test\test\test.cpp(383,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ayazj\source\repos\test\test\test.cpp(390,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayazj\source\repos\test\test\test.cpp(397,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ayazj\source\repos\test\test\test.cpp(404,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayazj\source\repos\test\test\test.cpp(534,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  test.vcxproj -> C:\Users\ayazj\source\repos\test\x64\Debug\test.exe
